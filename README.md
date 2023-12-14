@@ -1,10 +1,4 @@
-<h1 align="center">naviii</h1>
-
-<h4 align="center">一个简单优雅的导航页</h4>
-
-<p align="center">
-  <a href="https://start.uue.me">演示站</a>
-</p>
+<h1 style="text-align: center">naviii</h1>
 
 ## :sparkles: 特性
 - 响应式
@@ -81,14 +75,3 @@ npm run build
 # 代码风格
 npm run lint
 ```
-
-## :cupid: 致谢
-- [Vue](https://vuejs.org)
-- [Vite](https://vitejs.dev)
-- [Naive UI](https://naiveui.com)
-- [TypeScript](https://typescriptlang.org)
-- [FaviconKit](https://faviconkit.com)
-- [CodeMirror](https://codemirror.net) & [VueCodeMirror](https://github.surmon.me/vue-codemirror)
-
-## :scroll: 许可证
-**[MIT](https://opensource.org/licenses/MIT)**
